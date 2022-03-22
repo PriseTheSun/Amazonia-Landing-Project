@@ -1,7 +1,7 @@
 # Amazon Landing Project
 ![image](https://user-images.githubusercontent.com/62224609/159550753-9174ef56-be50-4edd-8ec0-121886a7e809.png)
 
-Projeto desenvolvido treinar o conhecimento em responsivo. Trabalhado as proporções com o @media. A ideia principal era trabalhar o máximo de proporção. 
+Projeto desenvolvido treinar o conhecimento em responsivo. Trabalhado as proporções com o @media. A ideia principal era trabalhar o máximo de proporção. Foi utilizado tambem a biblioteca IONICONS importado por CDN para utilização de seus recuros.
 
 ## Treinando Responsivo com @media 
 ```python
